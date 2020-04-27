@@ -1,0 +1,9 @@
+{
+  "id": "4e982454-750c-47b5-a5d7-527ae0b38669",
+  "name": "min_qual_cs_ai",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

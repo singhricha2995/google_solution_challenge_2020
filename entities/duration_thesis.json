@@ -1,0 +1,9 @@
+{
+  "id": "08260d64-a86e-40cb-b596-d79888b3c2cb",
+  "name": "duration_thesis",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

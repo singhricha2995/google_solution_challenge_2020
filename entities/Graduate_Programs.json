@@ -1,0 +1,9 @@
+{
+  "id": "a5845078-72f5-43c9-b6f4-5ff611cf6324",
+  "name": "Graduate_Programs",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "value": "MENG",
+    "synonyms": [
+      "MENG",
+      "Master of Engineering",
+      "course-based"
+    ]
+  },
+  {
+    "value": "ECE",
+    "synonyms": [
+      "ECE",
+      "Electrical and computer",
+      "Electrical",
+      "Electronics"
+    ]
+  },
+  {
+    "value": "civil",
+    "synonyms": [
+      "construction",
+      "civil"
+    ]
+  },
+  {
+    "value": "Mechanical",
+    "synonyms": [
+      "Mechanical",
+      "mech",
+      "Manufacturing"
+    ]
+  },
+  {
+    "value": "industrial",
+    "synonyms": [
+      "industrial",
+      "industries",
+      "indus"
+    ]
+  },
+  {
+    "value": "automobile",
+    "synonyms": [
+      "automobile",
+      "Automotive",
+      "Auto"
+    ]
+  },
+  {
+    "value": "Environment",
+    "synonyms": [
+      "Environment",
+      "Environmental",
+      "Smart Energy",
+      "Sustainable"
+    ]
+  },
+  {
+    "value": "Materials",
+    "synonyms": [
+      "Materials",
+      "Material"
+    ]
+  }
+]

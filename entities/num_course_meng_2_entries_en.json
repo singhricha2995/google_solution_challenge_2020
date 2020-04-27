@@ -1,0 +1,61 @@
+[
+  {
+    "value": "Automotive",
+    "synonyms": [
+      "Automotive",
+      "Auto",
+      "Autonomous"
+    ]
+  },
+  {
+    "value": "Civil",
+    "synonyms": [
+      "Civil",
+      "Construction"
+    ]
+  },
+  {
+    "value": "ECE",
+    "synonyms": [
+      "ECE",
+      "Electrical",
+      "Electrical and Computer Engineering",
+      "Electronics"
+    ]
+  },
+  {
+    "value": "Environmental",
+    "synonyms": [
+      "Environmental",
+      "Sustainable",
+      "Smart Energy",
+      "Env",
+      "Enivornment",
+      "Engineering in Environment"
+    ]
+  },
+  {
+    "value": "Industrial",
+    "synonyms": [
+      "Industrial",
+      "Indus",
+      "Industries"
+    ]
+  },
+  {
+    "value": "Materials",
+    "synonyms": [
+      "Materials",
+      "Material",
+      "Engineering Materials"
+    ]
+  },
+  {
+    "value": "Mechanical",
+    "synonyms": [
+      "Mechanical",
+      "Mech",
+      "Manufacturing"
+    ]
+  }
+]

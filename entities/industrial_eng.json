@@ -1,0 +1,9 @@
+{
+  "id": "145cab5e-f252-4700-a97a-9c4844702b3b",
+  "name": "industrial_eng",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

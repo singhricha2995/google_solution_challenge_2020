@@ -1,0 +1,59 @@
+[
+  {
+    "value": "thesis based",
+    "synonyms": [
+      "MASC",
+      "Master of Applied Science",
+      "Applied Science",
+      "Research Based",
+      "MSc",
+      "Master of Science",
+      "Thesis based"
+    ]
+  },
+  {
+    "value": "duration",
+    "synonyms": [
+      "duration",
+      "length",
+      "time",
+      "long",
+      "completion period",
+      "period",
+      "months",
+      "year",
+      "years",
+      "month"
+    ]
+  },
+  {
+    "value": "Civil",
+    "synonyms": [
+      "Civil",
+      "Construction",
+      "Computer Science",
+      "Computer Engineering",
+      "CS",
+      "Computers",
+      "ECE",
+      "Electrical",
+      "Electrical and Computer Engineering",
+      "Electronics",
+      "Engineering Materials",
+      "Materials",
+      "Material",
+      "Environmental",
+      "Sustainable",
+      "Smart Energy",
+      "Env",
+      "Enivornment",
+      "engineering in Environment",
+      "Industrial",
+      "Indus",
+      "Industries",
+      "Mechanical",
+      "Mech",
+      "Manufacturing"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "d71d0614-7ed6-46d7-a58e-5369bab0e8a3",
+  "name": "min_qual_meng",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

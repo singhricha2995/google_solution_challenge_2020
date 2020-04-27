@@ -1,0 +1,9 @@
+{
+  "id": "80e90490-29f8-4ff8-80a8-636f2790a72b",
+  "name": "IELTS",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

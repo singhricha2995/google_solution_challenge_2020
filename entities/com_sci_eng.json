@@ -1,0 +1,9 @@
+{
+  "id": "8de95b51-0b7d-49bb-987d-2a3255210781",
+  "name": "com_sci_eng",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

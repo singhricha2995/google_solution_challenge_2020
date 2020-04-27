@@ -1,0 +1,9 @@
+{
+  "id": "afe8082f-dcb7-4d44-a2cf-8cdeadcafd8c",
+  "name": "num_sub",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

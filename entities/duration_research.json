@@ -1,0 +1,9 @@
+{
+  "id": "3542f0ce-6de8-4185-ba99-d04aacecbc5e",
+  "name": "duration_research",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

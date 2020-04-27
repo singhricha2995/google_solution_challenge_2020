@@ -1,0 +1,9 @@
+{
+  "id": "fe687715-8946-4d87-9c70-26292a6e4335",
+  "name": "elec_comp_eng",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

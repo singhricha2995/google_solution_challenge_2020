@@ -1,0 +1,9 @@
+{
+  "id": "fe19c63f-12b9-44f0-8739-5508d3f9308e",
+  "name": "duration_course",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

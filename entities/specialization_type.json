@@ -1,0 +1,9 @@
+{
+  "id": "334648e2-5755-48ba-88f5-adbf6d867d9c",
+  "name": "specialization_type",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

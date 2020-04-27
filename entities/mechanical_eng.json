@@ -1,0 +1,9 @@
+{
+  "id": "8bb61cb5-d32c-40bd-96a7-9c55407444e8",
+  "name": "mechanical_eng",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

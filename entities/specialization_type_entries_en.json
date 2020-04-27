@@ -1,0 +1,34 @@
+[
+  {
+    "value": "Master of Engineering",
+    "synonyms": [
+      "Master of Engineering",
+      "MEng",
+      "course-based"
+    ]
+  },
+  {
+    "value": "Master of Science",
+    "synonyms": [
+      "Master of Science",
+      "MSC",
+      "thesis-based"
+    ]
+  },
+  {
+    "value": "Master of Applied Science",
+    "synonyms": [
+      "Master os Applied Science",
+      "MASC",
+      "research"
+    ]
+  },
+  {
+    "value": "Master of Applied Computing",
+    "synonyms": [
+      "Master of Applied Computing",
+      "MAC",
+      "project-based"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "6a0cc34a-32b4-4340-bf3f-6fc4867df5bb",
+  "name": "num_course_meng_2",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

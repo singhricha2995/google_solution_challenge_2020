@@ -1,0 +1,21 @@
+[
+  {
+    "value": "thesis",
+    "synonyms": [
+      "thesis",
+      "Master of Science",
+      "MS",
+      "MSC",
+      "thesis-based"
+    ]
+  },
+  {
+    "value": "research",
+    "synonyms": [
+      "research",
+      "research-based",
+      "Master of Applied Science",
+      "MASC"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "88be1751-e0dd-4fd5-a016-a225385a6e7c",
+  "name": "deadline_spec",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

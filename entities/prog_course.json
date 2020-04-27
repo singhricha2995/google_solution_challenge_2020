@@ -1,0 +1,9 @@
+{
+  "id": "70d7e12a-11d5-48d3-893f-f21c5d79793d",
+  "name": "prog_course",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

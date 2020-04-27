@@ -1,0 +1,9 @@
+{
+  "id": "89c858df-6792-4514-b81a-18ececdb99c4",
+  "name": "min_qual_masc",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

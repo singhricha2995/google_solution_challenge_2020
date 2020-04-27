@@ -1,0 +1,9 @@
+{
+  "id": "d278bf82-7cbe-4675-8543-d85fa699c0d8",
+  "name": "min_qual_mac",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

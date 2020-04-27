@@ -1,0 +1,76 @@
+[
+  {
+    "value": "ECE",
+    "synonyms": [
+      "ECE",
+      "Electrical",
+      "Electrical and computer",
+      "Electronics"
+    ]
+  },
+  {
+    "value": "Civil",
+    "synonyms": [
+      "Civil",
+      "Construction"
+    ]
+  },
+  {
+    "value": "Mechanical",
+    "synonyms": [
+      "Mechanical",
+      "Mech",
+      "Manufacturing"
+    ]
+  },
+  {
+    "value": "Automotive",
+    "synonyms": [
+      "Automotive",
+      "auto",
+      "Automobile"
+    ]
+  },
+  {
+    "value": "Materials",
+    "synonyms": [
+      "Materials",
+      "material"
+    ]
+  },
+  {
+    "value": "Industrial",
+    "synonyms": [
+      "Industrial",
+      "Indus",
+      "Industries"
+    ]
+  },
+  {
+    "value": "Environmental",
+    "synonyms": [
+      "Environmental",
+      "Environment",
+      "Sustainable",
+      "smart energy"
+    ]
+  },
+  {
+    "value": "Computers",
+    "synonyms": [
+      "Computers",
+      "CS",
+      "Computer Science",
+      "Computer engineering"
+    ]
+  },
+  {
+    "value": "CS AI",
+    "synonyms": [
+      "CS AI",
+      "AI",
+      "artificial intelligence",
+      "computer science with AI speicialization"
+    ]
+  }
+]

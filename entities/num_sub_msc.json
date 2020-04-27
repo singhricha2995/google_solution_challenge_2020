@@ -1,0 +1,9 @@
+{
+  "id": "52c85197-d9ca-41db-b4a7-d3ed05829aa2",
+  "name": "num_sub_msc",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

@@ -1,0 +1,97 @@
+[
+  {
+    "value": "Electrical and Computer Engineering",
+    "synonyms": [
+      "Electrical and Computer Engineering",
+      "ECE",
+      "Electrical"
+    ]
+  },
+  {
+    "value": "Computer Science",
+    "synonyms": [
+      "Computer Science",
+      "CSE",
+      "CS",
+      "Computers",
+      "Computer Engineering"
+    ]
+  },
+  {
+    "value": "Mechanical Engineering",
+    "synonyms": [
+      "Mechanical Engineering",
+      "Mech",
+      "Mechanical"
+    ]
+  },
+  {
+    "value": "Civil Engineering",
+    "synonyms": [
+      "Civil Engineering",
+      "Civil",
+      "Construction"
+    ]
+  },
+  {
+    "value": "Industrial Engineering",
+    "synonyms": [
+      "Industrial Engineering",
+      "Industrial"
+    ]
+  },
+  {
+    "value": "Environmental Engineering",
+    "synonyms": [
+      "Environmental Engineering",
+      "Environmental"
+    ]
+  },
+  {
+    "value": "Automotive Engineering",
+    "synonyms": [
+      "Automotive Engineering",
+      "Auto",
+      "Automobile",
+      "Automotive"
+    ]
+  },
+  {
+    "value": "Engineering Materials",
+    "synonyms": [
+      "Engineering Materials",
+      "Materials",
+      "Material"
+    ]
+  },
+  {
+    "value": "MENG",
+    "synonyms": [
+      "MENG",
+      "Master of Engineering"
+    ]
+  },
+  {
+    "value": "MAC",
+    "synonyms": [
+      "MAC",
+      "Master of Applied Computing",
+      "Applied Computing"
+    ]
+  },
+  {
+    "value": "MASc",
+    "synonyms": [
+      "MASc",
+      "Master of Applied Science"
+    ]
+  },
+  {
+    "value": "MSc",
+    "synonyms": [
+      "MSc",
+      "MS",
+      "Master of Science"
+    ]
+  }
+]

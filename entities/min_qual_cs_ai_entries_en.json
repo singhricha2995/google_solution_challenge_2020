@@ -1,0 +1,37 @@
+[
+  {
+    "value": "MSC AI",
+    "synonyms": [
+      "MSC AI",
+      "Master of Science in Artificial Intelligence",
+      "MS AI",
+      "MS in Computer Science with AI Specialization",
+      "MS in Computer Science with Artificial Intelligence"
+    ]
+  },
+  {
+    "value": "MSC CS",
+    "synonyms": [
+      "MSC CS",
+      "Master of Science in Computers",
+      "Master of Computer Science",
+      "Master of Computer Science with Thesis",
+      "Master of CS with Research"
+    ]
+  },
+  {
+    "value": "AI",
+    "synonyms": [
+      "AI",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "value": "CS",
+    "synonyms": [
+      "CS",
+      "Computers",
+      "Computer science"
+    ]
+  }
+]

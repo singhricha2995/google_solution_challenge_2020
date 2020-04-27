@@ -1,0 +1,9 @@
+{
+  "id": "9bb72deb-0ea6-47b2-b8c1-10749fe2dc0e",
+  "name": "civil_eng",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

@@ -1,0 +1,9 @@
+{
+  "id": "65b65470-0f2f-4056-9ba0-80af224406ce",
+  "name": "num_sub_mac",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

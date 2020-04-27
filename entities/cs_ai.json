@@ -1,0 +1,9 @@
+{
+  "id": "38e8a15f-72ca-41f4-8da6-d559c4d101fe",
+  "name": "cs_ai",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

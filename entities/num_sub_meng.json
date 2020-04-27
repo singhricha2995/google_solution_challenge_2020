@@ -1,0 +1,9 @@
+{
+  "id": "a559192d-9e34-494a-93cf-14415a591f80",
+  "name": "num_sub_meng",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}
