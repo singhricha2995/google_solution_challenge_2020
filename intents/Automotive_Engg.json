@@ -1,0 +1,47 @@
+{
+  "id": "64f9ee0f-3fef-4d13-a94e-87bf66613889",
+  "name": "Automotive_Engg",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8939ec8b-5834-4b3c-98d1-2d1cfa8caf84",
+          "required": false,
+          "dataType": "@auto_eng",
+          "name": "auto_eng",
+          "value": "$auto_eng",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "We provide two types of master’s program in Automotive Engineering. One is Master of Engineering which is course-based and the other one is Master of Applied science which is Research-Based.",
+            "Yes! We have course-based master’s known as MEng and thesis-based master’s known as Masc. in Automotive."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

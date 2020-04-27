@@ -1,0 +1,256 @@
+[
+  {
+    "id": "eaa44b81-56b4-4ea3-b690-966a5b641f8e",
+    "data": [
+      {
+        "text": "How much ",
+        "userDefined": false
+      },
+      {
+        "text": "time",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " does it take to finish ",
+        "userDefined": false
+      },
+      {
+        "text": "graduation",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "mechanical",
+        "alias": "duration_spec",
+        "meta": "@duration_spec",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5cb796fc-bb65-4a29-977c-5433d9a172a3",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "completion period",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Masters",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Computer Science",
+        "alias": "duration_spec",
+        "meta": "@duration_spec",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a077100-e6e1-4321-918a-dc9ec66daf40",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "length",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of the ",
+        "userDefined": false
+      },
+      {
+        "text": "Civil",
+        "alias": "duration_spec",
+        "meta": "@duration_spec",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Masters",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e86518f5-8d2f-4065-88c3-f4e8d782f87c",
+    "data": [
+      {
+        "text": "In how many ",
+        "userDefined": false
+      },
+      {
+        "text": "months",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " will I ",
+        "userDefined": false
+      },
+      {
+        "text": "complete",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Industrial",
+        "alias": "duration_spec",
+        "meta": "@duration_spec",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "351fe84e-507e-49a8-afb4-b99db3bde529",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "time",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "duration",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "completing",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Masters in ",
+        "userDefined": false
+      },
+      {
+        "text": "Artificial Intelligence",
+        "alias": "duration_spec",
+        "meta": "@duration_spec",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37403260-0426-4844-9fc0-8742c380ea65",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "long",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " does it take to ",
+        "userDefined": false
+      },
+      {
+        "text": "complete",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "Masters",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "ECE",
+        "alias": "duration_spec",
+        "meta": "@duration_spec",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

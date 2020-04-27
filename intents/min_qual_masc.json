@@ -1,0 +1,44 @@
+{
+  "id": "7f3d5235-08e0-44d5-9602-f12963e8e90b",
+  "name": "min_qual_masc",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4b885ea8-4820-4025-b897-13a0b29cd4fd",
+          "required": false,
+          "dataType": "@min_qual_masc",
+          "name": "min_qual_masc",
+          "value": "$min_qual_masc",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Undergraduate degree (BASc / B.Sc. in Engineering / B.Eng. degree or equivalent*) with at least 73% average over the last two years. International applicants are advised to refer to the specified minimum admission requirements, listed by country, at the Faculty of Engineering’s Professional and Graduate Studies (FEPGS) website and the Faculty of Graduate Studies website. Any research publications would be a plus. Also have minimum score in any one of them IELTS(6.5)/GRE/TOEFL(IBT-83)/Pearson(65)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

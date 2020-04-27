@@ -1,0 +1,44 @@
+{
+  "id": "7f9019de-ef06-4413-b3c0-550837e7c219",
+  "name": "duration_research",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8ad08d6c-eb77-4e13-82cd-a45adba6b171",
+          "required": false,
+          "dataType": "@duration_research",
+          "name": "duration_research",
+          "value": "$duration_research",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "This is a 24 month program.The completion of the program also depends on students thesis completion time."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

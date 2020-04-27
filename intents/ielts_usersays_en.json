@@ -1,0 +1,219 @@
+[
+  {
+    "id": "fe197b20-ae3f-4742-afd4-4250498c81c1",
+    "data": [
+      {
+        "text": "What maximum IELTS score is required for international students to get admitted into ",
+        "userDefined": false
+      },
+      {
+        "text": "Environmental",
+        "alias": "ielts",
+        "meta": "@IELTS",
+        "userDefined": true
+      },
+      {
+        "text": " Engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8bcf4fe-77a3-4ab8-b8a5-d6afa0611ca0",
+    "data": [
+      {
+        "text": "How many IELTS marks are required to get admitted into UOW for a master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "industrial",
+        "alias": "ielts",
+        "meta": "@IELTS",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2fd4f896-11d1-4866-9eca-8ba0e7a13974",
+    "data": [
+      {
+        "text": "Minimum ielts score required for ",
+        "userDefined": false
+      },
+      {
+        "text": "Mechanical",
+        "alias": "ielts",
+        "meta": "@IELTS",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9bd6adf-9bf0-4a63-be5a-9cbba34d169c",
+    "data": [
+      {
+        "text": "IELTS score for ",
+        "userDefined": false
+      },
+      {
+        "text": "materials",
+        "alias": "ielts",
+        "meta": "@IELTS",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Engineering",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "02ab7a20-c1ad-4357-b196-fd519f865033",
+    "data": [
+      {
+        "text": "What is the minimum score requirement in IELTS for ",
+        "userDefined": false
+      },
+      {
+        "text": "Automotive",
+        "alias": "ielts",
+        "meta": "@IELTS",
+        "userDefined": true
+      },
+      {
+        "text": " Engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0636289f-7c86-420f-97ba-147a305bab04",
+    "data": [
+      {
+        "text": "What is the minimum IELTS score required in ",
+        "userDefined": false
+      },
+      {
+        "text": "MEng",
+        "alias": "ielts",
+        "meta": "@IELTS",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Civil",
+        "alias": "ielts",
+        "meta": "@IELTS",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a30b7928-460d-48fc-b1e6-edb8a88101e6",
+    "data": [
+      {
+        "text": "How much does a student need to score in IELTS for admitting in masters in ",
+        "userDefined": false
+      },
+      {
+        "text": "mechanical",
+        "alias": "ielts",
+        "meta": "@IELTS",
+        "userDefined": true
+      },
+      {
+        "text": " engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "313cc05a-3188-435b-ac68-186a2941f016",
+    "data": [
+      {
+        "text": "How much IELTS score is necessary for admission in master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "computer science",
+        "alias": "ielts",
+        "meta": "@IELTS",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f22738f-f619-40a2-ae98-3522fd39a5ef",
+    "data": [
+      {
+        "text": "What is the ielts requirement for ",
+        "userDefined": false
+      },
+      {
+        "text": "ece",
+        "alias": "ielts",
+        "meta": "@IELTS",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

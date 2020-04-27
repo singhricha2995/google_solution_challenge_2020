@@ -1,0 +1,47 @@
+{
+  "id": "f89f29ea-a352-48a4-bfd4-0966c94918b6",
+  "name": "Industrial_Engineering",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5f9dee3c-f58c-4d40-a94e-666fd653063c",
+          "required": false,
+          "dataType": "@industrial_eng",
+          "name": "industrial_eng",
+          "value": "$industrial_eng",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "We provide two types of master’s program in Industrial Engineering. One is Master of Engineering which is course-based and the other one is Master of Applied science which is Research-Based.",
+            "Yes! We have course-based master’s known as MEng and thesis-based master’s known as Masc. in Industrial."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

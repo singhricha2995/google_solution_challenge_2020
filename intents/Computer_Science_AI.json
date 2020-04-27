@@ -1,0 +1,47 @@
+{
+  "id": "19c82f85-c455-43a7-be85-88cee6c29ffc",
+  "name": "Computer_Science_AI",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e69222e5-5ef2-42f0-a1be-4828502eb9e0",
+          "required": false,
+          "dataType": "@cs_ai",
+          "name": "cs_ai",
+          "value": "$cs_ai",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Yes! We have thesis-based master’s known as MSc in Computer Science with Artificial Intelligence Stream.",
+            "The program available in the field of Artificial Intelligence is Master of Science in Computer Science with specialization in Artificial Intelligence."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

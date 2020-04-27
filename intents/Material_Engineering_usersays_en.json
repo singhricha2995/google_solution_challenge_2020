@@ -1,0 +1,285 @@
+[
+  {
+    "id": "a8ac26ad-c64f-4d19-b6e9-1abc6e45136e",
+    "data": [
+      {
+        "text": "I am looking for a master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "engineering",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Materials",
+        "alias": "materials_eng",
+        "meta": "@materials_eng",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf92b703-e9cb-4f46-86fe-e46fd6acde2c",
+    "data": [
+      {
+        "text": "I want details for masters in ",
+        "userDefined": false
+      },
+      {
+        "text": "Material",
+        "alias": "materials_eng",
+        "meta": "@materials_eng",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "engineering",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be3bb7b4-25e8-4b38-8660-c205b4d1539a",
+    "data": [
+      {
+        "text": "Could you please help me with the types of master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "Material",
+        "alias": "materials_eng",
+        "meta": "@materials_eng",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "engineering",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5549c17-434e-4111-b770-3a4974687466",
+    "data": [
+      {
+        "text": "Do we have a master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "Material",
+        "alias": "materials_eng",
+        "meta": "@materials_eng",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Engineering",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8f2822c-9589-4fed-9e26-99aa6cf6589b",
+    "data": [
+      {
+        "text": "Does the University of Windsor have a course-based master\u0027s program in ",
+        "userDefined": false
+      },
+      {
+        "text": "Material",
+        "alias": "materials_eng",
+        "meta": "@materials_eng",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Engineering",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd9effd0-bc36-47a4-8a0d-b34003ce3df0",
+    "data": [
+      {
+        "text": "Is the University of Windsor offering thesis-based masters in ",
+        "userDefined": false
+      },
+      {
+        "text": "Material",
+        "alias": "materials_eng",
+        "meta": "@materials_eng",
+        "userDefined": true
+      },
+      {
+        "text": " Engg?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e4e9e7c-bf21-4e0e-bf75-325eb2632f97",
+    "data": [
+      {
+        "text": "What graduate programs are available in ",
+        "userDefined": false
+      },
+      {
+        "text": "Material",
+        "alias": "materials_eng",
+        "meta": "@materials_eng",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Engineering",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "827a2b81-fba8-49b6-a72c-f5ca51292b35",
+    "data": [
+      {
+        "text": "Do we have a course-based master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "Material",
+        "alias": "materials_eng",
+        "meta": "@materials_eng",
+        "userDefined": true
+      },
+      {
+        "text": " Engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bcb93df8-8ad7-48b5-af77-be5dc358ff57",
+    "data": [
+      {
+        "text": "Could you help me with the types of master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "Material",
+        "alias": "materials_eng",
+        "meta": "@materials_eng",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "engineering",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3bba2682-7deb-44eb-ba73-df51dc1c823d",
+    "data": [
+      {
+        "text": "What are the types of masters available in ",
+        "userDefined": false
+      },
+      {
+        "text": "Material",
+        "alias": "materials_eng",
+        "meta": "@materials_eng",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

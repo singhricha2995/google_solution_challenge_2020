@@ -1,0 +1,50 @@
+{
+  "id": "f38c53e9-1f11-4952-ba43-5ac182dc48aa",
+  "name": "deadline",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2e25eff5-a99c-40db-9989-fded37206650",
+          "required": false,
+          "dataType": "@deadline",
+          "name": "deadline",
+          "value": "$deadline",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please mention the specialization."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Please mention the specialization you are looking for?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

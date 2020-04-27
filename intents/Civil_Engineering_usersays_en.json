@@ -1,0 +1,240 @@
+[
+  {
+    "id": "90d17638-9422-41bf-971f-bcad9a9b78bc",
+    "data": [
+      {
+        "text": "I am looking for a master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "engineering",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Civil",
+        "alias": "civil_eng",
+        "meta": "@civil_eng",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06e1896b-dae8-49f2-9516-0bcead2ac5cf",
+    "data": [
+      {
+        "text": "I want details for my master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "civil",
+        "alias": "civil_eng",
+        "meta": "@civil_eng",
+        "userDefined": true
+      },
+      {
+        "text": " engineering.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ef19ba7-3998-4315-81c9-6e0864e788d8",
+    "data": [
+      {
+        "text": "Could you please help me with the types of ",
+        "userDefined": false
+      },
+      {
+        "text": "master\u0027s",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Civil",
+        "alias": "civil_eng",
+        "meta": "@civil_eng",
+        "userDefined": true
+      },
+      {
+        "text": " engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ec61c04-104c-4dd9-823f-b6df81300d19",
+    "data": [
+      {
+        "text": "Do we have a master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "Civil",
+        "alias": "civil_eng",
+        "meta": "@civil_eng",
+        "userDefined": true
+      },
+      {
+        "text": " Engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91331829-9c09-4627-8a2b-393685d12709",
+    "data": [
+      {
+        "text": "Does the University of Windsor have a course-based master\u0027s program in ",
+        "userDefined": false
+      },
+      {
+        "text": "Civil",
+        "alias": "civil_eng",
+        "meta": "@civil_eng",
+        "userDefined": true
+      },
+      {
+        "text": " Engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0478c6ac-59dc-4b44-92c1-d886e804b79b",
+    "data": [
+      {
+        "text": "Is the University of Windsor offering thesis-based masters in ",
+        "userDefined": false
+      },
+      {
+        "text": "Civil",
+        "alias": "civil_eng",
+        "meta": "@civil_eng",
+        "userDefined": true
+      },
+      {
+        "text": " Engg?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3216bd8a-8265-4973-8a33-515ffeb344d0",
+    "data": [
+      {
+        "text": "Do we have a course-based master\u0027s in the field related to ",
+        "userDefined": false
+      },
+      {
+        "text": "construction",
+        "alias": "civil_eng",
+        "meta": "@civil_eng",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ce39f4a-3766-4bd9-9b0b-9c4c4936a5c5",
+    "data": [
+      {
+        "text": "What graduate programs are available in ",
+        "userDefined": false
+      },
+      {
+        "text": "Civil",
+        "alias": "civil_eng",
+        "meta": "@civil_eng",
+        "userDefined": true
+      },
+      {
+        "text": " Engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a07ec006-45b1-428f-9197-899b7665a352",
+    "data": [
+      {
+        "text": "Could you help me with the types of master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "civil",
+        "alias": "civil_eng",
+        "meta": "@civil_eng",
+        "userDefined": true
+      },
+      {
+        "text": " engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "52fc396f-0ef1-416a-96f2-e486fb4d0baf",
+    "data": [
+      {
+        "text": "What are the types of masters available in ",
+        "userDefined": false
+      },
+      {
+        "text": "Civil",
+        "alias": "civil_eng",
+        "meta": "@civil_eng",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

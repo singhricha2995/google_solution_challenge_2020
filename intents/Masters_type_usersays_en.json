@@ -1,0 +1,272 @@
+[
+  {
+    "id": "d2be6126-e544-4b80-98e7-9025d8f3af8e",
+    "data": [
+      {
+        "text": "What are the various ",
+        "userDefined": false
+      },
+      {
+        "text": "master",
+        "alias": "Graduate_Programs",
+        "meta": "@Graduate_Programs",
+        "userDefined": true
+      },
+      {
+        "text": " programs at university?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f58bb197-a4b8-4ca5-a7c3-860ebb2267fd",
+    "data": [
+      {
+        "text": "How many types of ",
+        "userDefined": false
+      },
+      {
+        "text": "master\u0027s",
+        "alias": "Graduate_Programs",
+        "meta": "@Graduate_Programs",
+        "userDefined": true
+      },
+      {
+        "text": " programs are available at the ",
+        "userDefined": false
+      },
+      {
+        "text": "University",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " of Windsor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "379d0500-afc1-4116-a36e-a741822dcf7b",
+    "data": [
+      {
+        "text": "What are the different types of ",
+        "userDefined": false
+      },
+      {
+        "text": "master\u0027s",
+        "alias": "Graduate_Programs",
+        "meta": "@Graduate_Programs",
+        "userDefined": true
+      },
+      {
+        "text": " programs offered in ",
+        "userDefined": false
+      },
+      {
+        "text": "UOW",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96e79d02-daca-45fa-a1dc-aa1e1eb9ee4e",
+    "data": [
+      {
+        "text": "Can you provide me with the different categories of ",
+        "userDefined": false
+      },
+      {
+        "text": "master\u0027s",
+        "alias": "Graduate_Programs",
+        "meta": "@Graduate_Programs",
+        "userDefined": true
+      },
+      {
+        "text": " programs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9020eb3-28a3-4cb2-b720-aca42c3c5b34",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "Master\u0027s",
+        "alias": "Graduate_Programs",
+        "meta": "@Graduate_Programs",
+        "userDefined": true
+      },
+      {
+        "text": " program does ",
+        "userDefined": false
+      },
+      {
+        "text": "the University",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " of Windsor offer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3f6f7a5-174d-4035-a30a-191bc2cae056",
+    "data": [
+      {
+        "text": "What kind of ",
+        "userDefined": false
+      },
+      {
+        "text": "graduate",
+        "alias": "Graduate_Programs",
+        "meta": "@Graduate_Programs",
+        "userDefined": true
+      },
+      {
+        "text": " programs are available in ",
+        "userDefined": false
+      },
+      {
+        "text": "uow",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d54c955-f4d4-49ea-8f58-f7f001d79643",
+    "data": [
+      {
+        "text": "I am ",
+        "userDefined": false
+      },
+      {
+        "text": "looking",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for a ",
+        "userDefined": false
+      },
+      {
+        "text": "master\u0027s",
+        "alias": "Graduate_Programs",
+        "meta": "@Graduate_Programs",
+        "userDefined": true
+      },
+      {
+        "text": " program at the ",
+        "userDefined": false
+      },
+      {
+        "text": "University",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " of Windsor. Could you please help me with it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69a3aa6d-faf7-4dd5-914b-10f8ff888254",
+    "data": [
+      {
+        "text": "Please help me with the ",
+        "userDefined": false
+      },
+      {
+        "text": "Graduate",
+        "alias": "Graduate_Programs",
+        "meta": "@Graduate_Programs",
+        "userDefined": true
+      },
+      {
+        "text": " Programs available in ",
+        "userDefined": false
+      },
+      {
+        "text": "UOW",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8c1ceba7-6428-4659-a92a-b249522438ff",
+    "data": [
+      {
+        "text": "Do we have ",
+        "userDefined": false
+      },
+      {
+        "text": "Graduate",
+        "alias": "Graduate_Programs",
+        "meta": "@Graduate_Programs",
+        "userDefined": true
+      },
+      {
+        "text": " Courses at the ",
+        "userDefined": false
+      },
+      {
+        "text": "University",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " of Windsor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

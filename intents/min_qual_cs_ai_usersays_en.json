@@ -1,0 +1,112 @@
+[
+  {
+    "id": "683a6ebd-2948-4d9d-8fc9-3c9c1a0703f2",
+    "data": [
+      {
+        "text": "How to know if I qualify for the ",
+        "userDefined": false
+      },
+      {
+        "text": "Masters in Artificial Intelligence",
+        "alias": "min_qual_cs_ai",
+        "meta": "@min_qual_cs_ai",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e78686b-1249-4a31-aca8-0219d0f7fac8",
+    "data": [
+      {
+        "text": "Does ",
+        "userDefined": false
+      },
+      {
+        "text": "computer science",
+        "alias": "min_qual_cs_ai",
+        "meta": "@min_qual_cs_ai",
+        "userDefined": false
+      },
+      {
+        "text": " have any admission requirements?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4931679b-dfdc-478a-a0ea-2d3991152da6",
+    "data": [
+      {
+        "text": "What is the eligibility criteria for application in ",
+        "userDefined": false
+      },
+      {
+        "text": "Masters of Computer Science",
+        "alias": "min_qual_cs_ai",
+        "meta": "@min_qual_cs_ai",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dff0152b-dcc7-4831-8cd4-2b97eb76b0cd",
+    "data": [
+      {
+        "text": "Any admission requirements for ",
+        "userDefined": false
+      },
+      {
+        "text": "thesis based",
+        "alias": "min_qual_cs_ai",
+        "meta": "@min_qual_cs_ai",
+        "userDefined": false
+      },
+      {
+        "text": " Masters?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9ae0583-fdbf-4cc1-b951-7a3d5ab9f6a9",
+    "data": [
+      {
+        "text": "What are the minimum qualifications for applying for ",
+        "userDefined": false
+      },
+      {
+        "text": "MS in Computers with AI",
+        "alias": "min_qual_cs_ai",
+        "meta": "@min_qual_cs_ai",
+        "userDefined": true
+      },
+      {
+        "text": " Specialization",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

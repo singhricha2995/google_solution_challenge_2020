@@ -1,0 +1,218 @@
+[
+  {
+    "id": "6216d81c-832e-405c-95a8-a967e24985ba",
+    "data": [
+      {
+        "text": "What are the types of masters available in ",
+        "userDefined": false
+      },
+      {
+        "text": "Computer Science",
+        "alias": "com_sci_eng",
+        "meta": "@com_sci_eng",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4bb64ff5-1047-48a0-b072-1483368c8a1a",
+    "data": [
+      {
+        "text": "Could you help me with the types of master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "computer engineering",
+        "alias": "com_sci_eng",
+        "meta": "@com_sci_eng",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b7effa03-74b5-422e-b4c8-289656162646",
+    "data": [
+      {
+        "text": "Do we have course-based masters in ",
+        "userDefined": false
+      },
+      {
+        "text": "computers",
+        "alias": "com_sci_eng",
+        "meta": "@com_sci_eng",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a04ac33-5f29-4069-b385-8c325c57616b",
+    "data": [
+      {
+        "text": "What graduate programs are available in ",
+        "userDefined": false
+      },
+      {
+        "text": "CS",
+        "alias": "com_sci_eng",
+        "meta": "@com_sci_eng",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe43b63a-7bc4-450f-a5e2-2ba9cc7e24fd",
+    "data": [
+      {
+        "text": "Is the University of Windsor offering a thesis-based master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "computer science",
+        "alias": "com_sci_eng",
+        "meta": "@com_sci_eng",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b0ae8de-0441-49cd-96cd-528994bfbd40",
+    "data": [
+      {
+        "text": "Does the University of Windsor have a course-based master\u0027s program in ",
+        "userDefined": false
+      },
+      {
+        "text": "Computer Science",
+        "alias": "com_sci_eng",
+        "meta": "@com_sci_eng",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "091fbbcd-d3bb-47d9-9cdb-e4d637aecb64",
+    "data": [
+      {
+        "text": "Do we have a master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "Computer Engineering",
+        "alias": "com_sci_eng",
+        "meta": "@com_sci_eng",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9b43ee7-063f-47b1-a846-c8c6c36cfade",
+    "data": [
+      {
+        "text": "Could you please help me with the types of master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "computers",
+        "alias": "com_sci_eng",
+        "meta": "@com_sci_eng",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8066bb98-1211-41f5-86cc-829bf20222b4",
+    "data": [
+      {
+        "text": "I want details for Masters in ",
+        "userDefined": false
+      },
+      {
+        "text": "CS",
+        "alias": "com_sci_eng",
+        "meta": "@com_sci_eng",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b25235b3-964a-432f-be22-1c8f89e539a2",
+    "data": [
+      {
+        "text": "I am looking for a Masters in the field of ",
+        "userDefined": false
+      },
+      {
+        "text": "Computer Science",
+        "alias": "com_sci_eng",
+        "meta": "@com_sci_eng",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,165 @@
+[
+  {
+    "id": "caf17250-f8cf-4838-985a-02af298d4b2e",
+    "data": [
+      {
+        "text": "I am looking for a Masters in ",
+        "userDefined": false
+      },
+      {
+        "text": "engineering in Environment",
+        "alias": "environ_eng",
+        "meta": "@environ_eng",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9c30d5b-522e-47d3-a518-1eac3eee8e35",
+    "data": [
+      {
+        "text": "Do we have a Masters in ",
+        "userDefined": false
+      },
+      {
+        "text": "Environmental",
+        "alias": "environ_eng",
+        "meta": "@environ_eng",
+        "userDefined": true
+      },
+      {
+        "text": " Engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80d1c010-66e9-4c18-984b-889eaa214c0c",
+    "data": [
+      {
+        "text": "Does the University of Windsor have a course-based Master\u0027s program in ",
+        "userDefined": false
+      },
+      {
+        "text": "Environmental",
+        "alias": "environ_eng",
+        "meta": "@environ_eng",
+        "userDefined": true
+      },
+      {
+        "text": " Engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "569f3cbf-25dc-4e3f-8e4a-dabb58bc161e",
+    "data": [
+      {
+        "text": "Is the University of Windsor offering thesis-based Masters in ",
+        "userDefined": false
+      },
+      {
+        "text": "Environmental",
+        "alias": "environ_eng",
+        "meta": "@environ_eng",
+        "userDefined": true
+      },
+      {
+        "text": " Engg?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f8a6fa5f-2cf3-4a5f-a9e9-33bdebd2930e",
+    "data": [
+      {
+        "text": "What graduate programs are available in ",
+        "userDefined": false
+      },
+      {
+        "text": "Env",
+        "alias": "environ_eng",
+        "meta": "@environ_eng",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Engineering",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc362e85-18ee-4961-ba04-3879e6241e23",
+    "data": [
+      {
+        "text": "Do we have course based masters in ",
+        "userDefined": false
+      },
+      {
+        "text": "Environmental",
+        "alias": "environ_eng",
+        "meta": "@environ_eng",
+        "userDefined": true
+      },
+      {
+        "text": " Engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9eaf8375-721f-4e08-bf01-f05957d02303",
+    "data": [
+      {
+        "text": "What are the types of masters available in ",
+        "userDefined": false
+      },
+      {
+        "text": "Environmental",
+        "alias": "environ_eng",
+        "meta": "@environ_eng",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

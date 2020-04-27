@@ -1,0 +1,276 @@
+[
+  {
+    "id": "cb5c7960-e47b-4951-a95f-33038faeda5d",
+    "data": [
+      {
+        "text": "What are the types of masters available in ",
+        "userDefined": false
+      },
+      {
+        "text": "Electrical",
+        "alias": "elec_comp_eng",
+        "meta": "@elec_comp_eng",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e5f81e1-4927-46a1-b5a3-44ce48d3fc4f",
+    "data": [
+      {
+        "text": "Could you help me with the types of master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "Electrical and Computer Engineering",
+        "alias": "elec_comp_eng",
+        "meta": "@elec_comp_eng",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "981840bb-0934-4312-a0ac-7e1aac22c6ec",
+    "data": [
+      {
+        "text": "Do we have ",
+        "userDefined": false
+      },
+      {
+        "text": "course",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "-",
+        "userDefined": false
+      },
+      {
+        "text": "based",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " masters in ",
+        "userDefined": false
+      },
+      {
+        "text": "ece",
+        "alias": "elec_comp_eng",
+        "meta": "@elec_comp_eng",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79433e8d-aad5-4c67-bbe7-847847402612",
+    "data": [
+      {
+        "text": "What graduate programs are available in ",
+        "userDefined": false
+      },
+      {
+        "text": "ECE",
+        "alias": "elec_comp_eng",
+        "meta": "@elec_comp_eng",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af60ddab-6827-494c-888e-755c0fa638f1",
+    "data": [
+      {
+        "text": "Is the University of Windsor offering ",
+        "userDefined": false
+      },
+      {
+        "text": "thesis",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "-",
+        "userDefined": false
+      },
+      {
+        "text": "based",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " Masters in ",
+        "userDefined": false
+      },
+      {
+        "text": "ECE",
+        "alias": "elec_comp_eng",
+        "meta": "@elec_comp_eng",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e40f8fb-6b0f-47f5-a0d7-6f99cc7080c6",
+    "data": [
+      {
+        "text": "Does the University of Windsor have a ",
+        "userDefined": false
+      },
+      {
+        "text": "course",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "-",
+        "userDefined": false
+      },
+      {
+        "text": "based",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " master\u0027s program in ",
+        "userDefined": false
+      },
+      {
+        "text": "Electrical and Computer Engineering",
+        "alias": "elec_comp_eng",
+        "meta": "@elec_comp_eng",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7424a49c-50a3-46e1-8f05-dcb5ebb498ef",
+    "data": [
+      {
+        "text": "Do we have a master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "Electrical Engineering",
+        "alias": "elec_comp_eng",
+        "meta": "@elec_comp_eng",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8c01e3a7-14a3-444e-8828-f9baa535eb2e",
+    "data": [
+      {
+        "text": "Could you please help me with the types of master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "electrical",
+        "alias": "elec_comp_eng",
+        "meta": "@elec_comp_eng",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a304bf40-e018-4446-b862-9e978f25ddfa",
+    "data": [
+      {
+        "text": "I want details for Masters in ",
+        "userDefined": false
+      },
+      {
+        "text": "ECE",
+        "alias": "elec_comp_eng",
+        "meta": "@elec_comp_eng",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69f26506-6c5e-43b1-ae82-2ab44c53676a",
+    "data": [
+      {
+        "text": "I am looking for a master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "electrical and Computer Engineering",
+        "alias": "elec_comp_eng",
+        "meta": "@elec_comp_eng",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

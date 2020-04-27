@@ -1,0 +1,50 @@
+{
+  "id": "220d06e2-0940-400c-9294-d1eb5bdd97ef",
+  "name": "min_qual_cs_ai",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "663614ca-49d4-41bf-8083-1ee4b6d9de78",
+          "required": true,
+          "dataType": "@min_qual_cs_ai",
+          "name": "min_qual_cs_ai",
+          "value": "$min_qual_cs_ai",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Can you please provide the area of specialization?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "A student with an honours Bachelor\u0027s degree in a related subject and with at least a 70% average in the major subject may be admitted to a minimum two-year Master\u0027s program ,Students with deficiencies in some areas of Computer Science may be required to make up those deficiencies by registering in undergraduate courses prior to or as part of their graduate program. Any research paper publication is a plus. Also have minimum score in any one of them IELTS(6.5)/GRE/TOEFL-IBT(92)/Pearson(65)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

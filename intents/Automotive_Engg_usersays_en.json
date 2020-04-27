@@ -1,0 +1,249 @@
+[
+  {
+    "id": "fbfc8520-92e3-45ac-a2db-9f9842deddc7",
+    "data": [
+      {
+        "text": "What graduate programs are available in ",
+        "userDefined": false
+      },
+      {
+        "text": "Automotive",
+        "alias": "auto_eng",
+        "meta": "@auto_eng",
+        "userDefined": true
+      },
+      {
+        "text": " Engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af5abd60-e773-4637-916c-d6581972ebb9",
+    "data": [
+      {
+        "text": "I am looking for a master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "engineering",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Automotive",
+        "alias": "auto_eng",
+        "meta": "@auto_eng",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d5fc11f-948d-4fb8-b63f-8fb069029f2f",
+    "data": [
+      {
+        "text": "I want details for my masters in ",
+        "userDefined": false
+      },
+      {
+        "text": "Automotive",
+        "alias": "auto_eng",
+        "meta": "@auto_eng",
+        "userDefined": true
+      },
+      {
+        "text": " engineering.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b9cfbb0-66e4-4d8d-a1e0-e7b7d82fa545",
+    "data": [
+      {
+        "text": "Could you please help me with the types of master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "Automobile",
+        "alias": "auto_eng",
+        "meta": "@auto_eng",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "engineering",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6e450da-cc50-40da-952c-e2ad03783c7f",
+    "data": [
+      {
+        "text": "Do we have a master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "Automotive",
+        "alias": "auto_eng",
+        "meta": "@auto_eng",
+        "userDefined": true
+      },
+      {
+        "text": " Engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6dc9d7ba-9b6d-4777-bb73-2547f96dbd9d",
+    "data": [
+      {
+        "text": "Does the University of Windsor have a course-based master\u0027s program in ",
+        "userDefined": false
+      },
+      {
+        "text": "Automotive",
+        "alias": "auto_eng",
+        "meta": "@auto_eng",
+        "userDefined": true
+      },
+      {
+        "text": " Engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1635aaa-ffc1-4dcc-97c2-150c37b71d51",
+    "data": [
+      {
+        "text": "Is the University of Windsor offering thesis-based masters in ",
+        "userDefined": false
+      },
+      {
+        "text": "Automobile",
+        "alias": "auto_eng",
+        "meta": "@auto_eng",
+        "userDefined": true
+      },
+      {
+        "text": " Engg?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2bed935-0db8-4f37-86a7-e6f04d0bc169",
+    "data": [
+      {
+        "text": "Could you help me with the types of master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "Auto",
+        "alias": "auto_eng",
+        "meta": "@auto_eng",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "engineering",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f782bf6f-95fd-4977-8a34-80a9a9fee44e",
+    "data": [
+      {
+        "text": "Do we have a course-based master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "Automotive",
+        "alias": "auto_eng",
+        "meta": "@auto_eng",
+        "userDefined": true
+      },
+      {
+        "text": " engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "5a6addaa-2ee7-44fe-aef0-b154059c9a46",
+    "data": [
+      {
+        "text": "What are the types of masters available in ",
+        "userDefined": false
+      },
+      {
+        "text": "Automobile",
+        "alias": "auto_eng",
+        "meta": "@auto_eng",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

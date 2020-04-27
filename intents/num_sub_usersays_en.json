@@ -1,0 +1,149 @@
+[
+  {
+    "id": "2da74f1a-edcd-425b-89a0-b8038f2955f8",
+    "data": [
+      {
+        "text": "What is the total ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "subjects",
+        "alias": "num_sub",
+        "meta": "@num_sub",
+        "userDefined": true
+      },
+      {
+        "text": " offered in a Graduate Program?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ca32651-8f3e-4254-8478-740406835c69",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "courses",
+        "alias": "num_sub",
+        "meta": "@num_sub",
+        "userDefined": true
+      },
+      {
+        "text": " will I get to study while pursuing my ",
+        "userDefined": false
+      },
+      {
+        "text": "Masters?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0da2200-0f14-459f-bf6e-2b217408ebf0",
+    "data": [
+      {
+        "text": "Masters degree",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " comprises of how many ",
+        "userDefined": false
+      },
+      {
+        "text": "courses",
+        "alias": "num_sub",
+        "meta": "@num_sub",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455a40fb-a099-40d0-9e4a-095e8fed50b1",
+    "data": [
+      {
+        "text": "What number of ",
+        "userDefined": false
+      },
+      {
+        "text": "subjects",
+        "alias": "num_sub",
+        "meta": "@num_sub",
+        "userDefined": true
+      },
+      {
+        "text": " do students study in a ",
+        "userDefined": false
+      },
+      {
+        "text": "Graduate",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Program?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fcbb5c41-4703-4daf-8227-7a46fcf4ebfa",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "majors",
+        "alias": "num_sub",
+        "meta": "@num_sub",
+        "userDefined": true
+      },
+      {
+        "text": " does the student enrolled in ",
+        "userDefined": false
+      },
+      {
+        "text": "Masters",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " have to study?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

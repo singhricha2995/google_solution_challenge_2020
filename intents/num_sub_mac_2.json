@@ -1,0 +1,44 @@
+{
+  "id": "3bdc62e6-3878-4686-8e43-e73defd112ad",
+  "name": "num_sub_mac_2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "06a21806-59ca-451f-833e-06361cc3581b",
+          "required": false,
+          "dataType": "@num_sub_mac_2",
+          "name": "num_sub_mac_2",
+          "value": "$num_sub_mac_2",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Are you looking for thesis-based or course-based masters?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

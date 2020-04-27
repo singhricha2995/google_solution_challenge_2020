@@ -1,0 +1,44 @@
+{
+  "id": "93547c65-0cf9-460c-a6ed-f302b8ebcd6b",
+  "name": "num_sub_mac",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7d011a10-a96f-436c-be89-a691bb576a04",
+          "required": false,
+          "dataType": "@num_sub_mac",
+          "name": "num_sub_mac",
+          "value": "$num_sub_mac",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Students get to study a total of 8 courses plus Project/Internship in order to complete the degree."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

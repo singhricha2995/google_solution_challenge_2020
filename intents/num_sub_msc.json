@@ -1,0 +1,44 @@
+{
+  "id": "5fec79d2-c546-45c9-8b2b-da4bf5c17e74",
+  "name": "num_sub_msc",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7b0e67a0-83ab-4840-ae5d-d8194463b102",
+          "required": false,
+          "dataType": "@num_sub_msc",
+          "name": "num_sub_msc",
+          "value": "$num_sub_msc",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The requirements for the degree of Master of Science will be satisfied by pursuing a program of studies consisting of five approved courses and a thesis."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

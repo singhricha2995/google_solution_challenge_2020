@@ -1,0 +1,153 @@
+[
+  {
+    "id": "7408686c-ab29-4630-99e2-c89a29058de7",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "majors",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " does the student enrolled in ",
+        "userDefined": false
+      },
+      {
+        "text": "Master of Engineering",
+        "alias": "num_sub_meng",
+        "meta": "@num_sub_meng",
+        "userDefined": true
+      },
+      {
+        "text": " have to study?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9ed6d5c-88e9-4561-99de-a87239229d4f",
+    "data": [
+      {
+        "text": "What number of ",
+        "userDefined": false
+      },
+      {
+        "text": "subjects",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " do students study in a ",
+        "userDefined": false
+      },
+      {
+        "text": "MENG",
+        "alias": "num_sub_meng",
+        "meta": "@num_sub_meng",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28251ece-ccc6-4ad2-b78d-ff432dde85f5",
+    "data": [
+      {
+        "text": "Master of Engineering",
+        "alias": "num_sub_meng",
+        "meta": "@num_sub_meng",
+        "userDefined": true
+      },
+      {
+        "text": " comprises of how many ",
+        "userDefined": false
+      },
+      {
+        "text": "courses",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e49ca8cc-ec15-4290-a801-c57d02411e5c",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "courses",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " will I get to study while pursuing ",
+        "userDefined": false
+      },
+      {
+        "text": "MENG",
+        "alias": "num_sub_meng",
+        "meta": "@num_sub_meng",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64791bc1-8ca5-44a4-8cfb-dda2bf98635f",
+    "data": [
+      {
+        "text": "What is the total number of ",
+        "userDefined": false
+      },
+      {
+        "text": "subjects",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " offered in a ",
+        "userDefined": false
+      },
+      {
+        "text": "course-based",
+        "alias": "num_sub_meng",
+        "meta": "@num_sub_meng",
+        "userDefined": true
+      },
+      {
+        "text": " program?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

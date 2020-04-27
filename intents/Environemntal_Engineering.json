@@ -1,0 +1,47 @@
+{
+  "id": "502b1936-8e90-4f96-ab4e-8d3ddd25677f",
+  "name": "Environemntal_Engineering",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bd731860-3f65-45b0-9e50-f346a43de952",
+          "required": false,
+          "dataType": "@environ_eng",
+          "name": "environ_eng",
+          "value": "$environ_eng",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "We provide two types of Masters program in Environmental Engineering.One is Master of Engineering which is course-based and the other one is Master of Applied science which is Research-Based.",
+            "Yes! We have course based Masters known as MEng and thesis based Masters known as MASc in Environment."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

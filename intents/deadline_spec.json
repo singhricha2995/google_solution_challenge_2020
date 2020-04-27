@@ -1,0 +1,44 @@
+{
+  "id": "163ff826-2e98-44f4-a5f7-515a41b3f61d",
+  "name": "deadline_spec",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ffaf7379-899a-4102-be74-05135236d5e2",
+          "required": false,
+          "dataType": "@deadline_spec",
+          "name": "deadline_spec",
+          "value": "$deadline_spec",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The applications are open for Winter 2021 till 1st September 2020."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,126 @@
+[
+  {
+    "id": "f57ea318-86b1-4179-b6b8-cd15728b925c",
+    "data": [
+      {
+        "text": "What number of ",
+        "userDefined": false
+      },
+      {
+        "text": "subjects",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " are taught in ",
+        "userDefined": false
+      },
+      {
+        "text": "Computer Science",
+        "alias": "num_sub_mac_2",
+        "meta": "@num_sub_mac_2",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a93ed9f5-7aef-41ff-8fc2-9f84d2d192b4",
+    "data": [
+      {
+        "text": "The number of ",
+        "userDefined": false
+      },
+      {
+        "text": "courses",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " available in ",
+        "userDefined": false
+      },
+      {
+        "text": "computer engineering",
+        "alias": "num_sub_mac_2",
+        "meta": "@num_sub_mac_2",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f300b961-aa89-4496-b3f6-2c625f1d6e3c",
+    "data": [
+      {
+        "text": "What is the total number of ",
+        "userDefined": false
+      },
+      {
+        "text": "subjects",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " offered in masters in ",
+        "userDefined": false
+      },
+      {
+        "text": "CS",
+        "alias": "num_sub_mac_2",
+        "meta": "@num_sub_mac_2",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b76d5288-948b-4553-ab78-754d609a6cd3",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "courses",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " do we get to study in ",
+        "userDefined": false
+      },
+      {
+        "text": "computers",
+        "alias": "num_sub_mac_2",
+        "meta": "@num_sub_mac_2",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

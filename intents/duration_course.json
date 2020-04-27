@@ -1,0 +1,44 @@
+{
+  "id": "b84cedf6-992d-4498-ba82-38001109216e",
+  "name": "duration_course",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0e1d9eef-c876-4712-8d10-2df85a585d87",
+          "required": false,
+          "dataType": "@duration_course",
+          "name": "duration_course",
+          "value": "$duration_course",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "This is a 16 months program. Students are expected to complete it within 16-18 months."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

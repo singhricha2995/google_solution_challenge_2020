@@ -1,0 +1,222 @@
+[
+  {
+    "id": "a1531e02-ecdd-43d5-837f-dc3f08b1a40e",
+    "data": [
+      {
+        "text": "I am looking for a master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "Mechanical",
+        "alias": "mechanical_eng",
+        "meta": "@mechanical_eng",
+        "userDefined": true
+      },
+      {
+        "text": " engineering.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac14b597-c02e-4624-bcee-2fb3603b3060",
+    "data": [
+      {
+        "text": "I want details for Masters in ",
+        "userDefined": false
+      },
+      {
+        "text": "Mech",
+        "alias": "mechanical_eng",
+        "meta": "@mechanical_eng",
+        "userDefined": true
+      },
+      {
+        "text": " Engineering.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c6a55f6-20c2-4eaa-ba6c-8733b8e56ac2",
+    "data": [
+      {
+        "text": "\n Could you please help me with the types of master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "Mechanical",
+        "alias": "mechanical_eng",
+        "meta": "@mechanical_eng",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "834fe980-4b0c-479a-9d7e-c432bb5356b4",
+    "data": [
+      {
+        "text": "Do we have a master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "Mechanical",
+        "alias": "mechanical_eng",
+        "meta": "@mechanical_eng",
+        "userDefined": true
+      },
+      {
+        "text": " Engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f19a6e64-deb4-49ea-961c-33de3ebb2d34",
+    "data": [
+      {
+        "text": "Does the University of Windsor have a course-based master\u0027s program in ",
+        "userDefined": false
+      },
+      {
+        "text": "Mechanical",
+        "alias": "mechanical_eng",
+        "meta": "@mechanical_eng",
+        "userDefined": true
+      },
+      {
+        "text": " Engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d98e9ac2-2739-4806-ab66-acad4e509421",
+    "data": [
+      {
+        "text": "Is the University of Windsor offering a thesis-based master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "Mechanical",
+        "alias": "mechanical_eng",
+        "meta": "@mechanical_eng",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7faf6518-93a6-462f-96ea-3227d0e93bd6",
+    "data": [
+      {
+        "text": "What graduate programs are available in ",
+        "userDefined": false
+      },
+      {
+        "text": "Mechanical",
+        "alias": "mechanical_eng",
+        "meta": "@mechanical_eng",
+        "userDefined": true
+      },
+      {
+        "text": " Engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "43738452-44f3-4ca1-ad62-57d5a147379f",
+    "data": [
+      {
+        "text": "Do we have a course-based master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "Mechanical",
+        "alias": "mechanical_eng",
+        "meta": "@mechanical_eng",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01c677e3-d3e5-4ebd-8ea0-18a2d4b75564",
+    "data": [
+      {
+        "text": "Could you help me with the types of master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "Mechanical",
+        "alias": "mechanical_eng",
+        "meta": "@mechanical_eng",
+        "userDefined": true
+      },
+      {
+        "text": " engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4be047c9-9b29-4ae1-a77f-6d37f62a2687",
+    "data": [
+      {
+        "text": "What are the types of masters available in ",
+        "userDefined": false
+      },
+      {
+        "text": "Mechanical",
+        "alias": "mechanical_eng",
+        "meta": "@mechanical_eng",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

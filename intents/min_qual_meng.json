@@ -1,0 +1,50 @@
+{
+  "id": "c13329f5-32da-4c58-adeb-d26e661874f3",
+  "name": "min_qual_meng",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fe8764f9-eb30-4282-94c9-8c61b1df6cbc",
+          "required": true,
+          "dataType": "@min_qual_meng",
+          "name": "min_qual_meng",
+          "value": "$min_qual_meng",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Could you please help me with the type of the masters you are interested in?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The minimum qualification to apply for graduate program is to have an undergraduate degree (BASc / B.Sc. in Engineering / B.Eng. degree or equivalent*) with at least 73% average over the last two years. International applicants are advised to refer to the specified minimum admission requirements, listed by country, at the Faculty of Engineering’s Professional and Graduate Studies (FEPGS) website and the Faculty of Graduate Studies website. Also have minimum score in any one of them IELTS (6.5)/GRE/TOEFL (IBT-92)/Pearson (65)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

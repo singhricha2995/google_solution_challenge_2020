@@ -1,0 +1,44 @@
+{
+  "id": "eecd0c7c-e4f0-46d9-951f-a44603dcf5bb",
+  "name": "help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4b7191af-99bd-4f41-baf6-906d70596093",
+          "required": false,
+          "dataType": "@help",
+          "name": "help",
+          "value": "$help",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "I can guide you through course details for graduate programs, IELTS requirements, additional documents, application deadline, program duration, admission requirements, availability of co-op or internships."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

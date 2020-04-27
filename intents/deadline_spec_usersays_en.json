@@ -1,0 +1,194 @@
+[
+  {
+    "id": "75f4bd50-04a9-45b3-b672-409da72b0964",
+    "data": [
+      {
+        "text": "Till when the ",
+        "userDefined": false
+      },
+      {
+        "text": "applications",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " are open for ",
+        "userDefined": false
+      },
+      {
+        "text": "masters",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "industrial",
+        "alias": "deadline_spec",
+        "meta": "@deadline_spec",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4283e696-d5a7-4bf2-b1a7-b0d5ea747584",
+    "data": [
+      {
+        "text": "Can I apply for the ",
+        "userDefined": false
+      },
+      {
+        "text": "masters",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "environmental",
+        "alias": "deadline_spec",
+        "meta": "@deadline_spec",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "winter 2021",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c952c7b0-fe48-4716-bba7-2d93cc8d7b6d",
+    "data": [
+      {
+        "text": "Is uow accepting ",
+        "userDefined": false
+      },
+      {
+        "text": "applications",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Meng",
+        "alias": "deadline_spec",
+        "meta": "@deadline_spec",
+        "userDefined": true
+      },
+      {
+        "text": " for the ",
+        "userDefined": false
+      },
+      {
+        "text": "upcoming",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " term?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92472bd9-8a9b-4b02-8de7-77f0837a935b",
+    "data": [
+      {
+        "text": "Are the ",
+        "userDefined": false
+      },
+      {
+        "text": "applications",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " still open for ",
+        "userDefined": false
+      },
+      {
+        "text": "mechanical",
+        "alias": "deadline_spec",
+        "meta": "@deadline_spec",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a7ba7f7-44f1-406b-b803-93277e652f5e",
+    "data": [
+      {
+        "text": "What is the application ",
+        "userDefined": false
+      },
+      {
+        "text": "deadline",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Masc",
+        "alias": "deadline_spec",
+        "meta": "@deadline_spec",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "electrical",
+        "alias": "deadline_spec",
+        "meta": "@deadline_spec",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

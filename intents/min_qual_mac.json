@@ -1,0 +1,50 @@
+{
+  "id": "f5d83598-ca33-433f-be17-f005f764ee53",
+  "name": "min_qual_mac",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "adf1fe42-4f92-4788-8313-62d48a3ec1ea",
+          "required": true,
+          "dataType": "@min_qual_mac",
+          "name": "min_qual_mac",
+          "value": "$min_qual_mac",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Could you please help me with the program type?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Hold a 4-year bachelor degree in Computer Science or related discipline with a minimum major average of 70% or an average of 77% or better in the last 2 years of study, application that includes a description of a major technology project they have undertaken in the past 3 years. Non-Computer Science disciplines will be eligible for admission if they are accepted into and complete the University of Windsor’s one-year Bachelor of Computer Science for University Graduates program with a 70% average or better.Also have minimum score in any one of them IELTS (6.5)/GRE/TOEFL (IBT-92)/Pearson (65)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

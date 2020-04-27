@@ -1,0 +1,79 @@
+[
+  {
+    "id": "3a9f71b0-f009-4851-8f03-f9310d38a537",
+    "data": [
+      {
+        "text": "Please help me with the application qualification for Graduate program in uow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59bef55f-7d2f-447a-9c32-a24b0ac217e3",
+    "data": [
+      {
+        "text": "What is the minimum percentage required in bachelors for applying in Masters in ",
+        "userDefined": false
+      },
+      {
+        "text": "computer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31c71df0-3dab-4ac9-905e-50a677bbf745",
+    "data": [
+      {
+        "text": "How to know if I am eligible to apply for ",
+        "userDefined": false
+      },
+      {
+        "text": "MAC",
+        "alias": "min_qual_mac",
+        "meta": "@min_qual_mac",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3dcd6f2-ad73-4998-9dc7-df2ff74866b0",
+    "data": [
+      {
+        "text": "I want to apply in ",
+        "userDefined": false
+      },
+      {
+        "text": "Master of Applied Computing",
+        "alias": "min_qual_mac",
+        "meta": "@min_qual_mac",
+        "userDefined": true
+      },
+      {
+        "text": ". What is the eligibility criteria?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

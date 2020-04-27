@@ -1,0 +1,112 @@
+[
+  {
+    "id": "ba4f2dea-710e-4793-bd4d-f102f5b745a8",
+    "data": [
+      {
+        "text": "In the ",
+        "userDefined": false
+      },
+      {
+        "text": "research",
+        "alias": "min_qual_masc",
+        "meta": "@min_qual_masc",
+        "userDefined": false
+      },
+      {
+        "text": " programs, what are the minimum qualifications for me to apply?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4bc56a09-146e-4b25-b9d1-1a47723510d8",
+    "data": [
+      {
+        "text": "In ",
+        "userDefined": false
+      },
+      {
+        "text": "applied science",
+        "alias": "min_qual_masc",
+        "meta": "@min_qual_masc",
+        "userDefined": false
+      },
+      {
+        "text": " program, are there any eligibility qualifications required?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e20f5be-dc3e-4d4c-9d31-d50021515dde",
+    "data": [
+      {
+        "text": "For ",
+        "userDefined": false
+      },
+      {
+        "text": "thesis based",
+        "alias": "min_qual_masc",
+        "meta": "@min_qual_masc",
+        "userDefined": false
+      },
+      {
+        "text": " programs, are there any minimum needed qualifications?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc3b3731-1688-4bb1-ab22-39c04b240b17",
+    "data": [
+      {
+        "text": "Are there any eligibility criterias in ",
+        "userDefined": false
+      },
+      {
+        "text": "MASc",
+        "alias": "min_qual_masc",
+        "meta": "@min_qual_masc",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f1c3622-fe92-444a-bf77-c3e7759f4766",
+    "data": [
+      {
+        "text": "What are the minimum qualifications needed to apply for ",
+        "userDefined": false
+      },
+      {
+        "text": "MASc",
+        "alias": "min_qual_masc",
+        "meta": "@min_qual_masc",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

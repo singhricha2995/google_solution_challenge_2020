@@ -1,0 +1,49 @@
+{
+  "id": "2d0df13d-996e-4576-a4eb-ba4864c8c147",
+  "name": "Masters_type",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0897a24b-ee34-4acd-83cb-553af417180a",
+          "required": false,
+          "dataType": "@Graduate_Programs",
+          "name": "Graduate_Programs",
+          "value": "$Graduate_Programs",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "We offer various Graduate programs at University of Windsor. Please provide the specialization.",
+            "Yes, for sure! We provide various graduate programs. Please specify the specialization you are looking for.",
+            "Yes, we do offer Graduate courses at our University. Which Program are you interested in?",
+            "Yes! Could you please help me with your area of interest?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

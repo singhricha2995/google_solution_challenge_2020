@@ -1,0 +1,47 @@
+{
+  "id": "55939297-fa87-4428-bdde-66ebbe5dea82",
+  "name": "Civil_Engineering",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "32ea516d-2c37-4fe6-9e55-49afe6a7df58",
+          "required": false,
+          "dataType": "@civil_eng",
+          "name": "civil_eng",
+          "value": "$civil_eng",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "We provide two types of master’s program in Civil Engineering. One is Master of Engineering which is course-based and the other one is Master of Applied science which is Research-Based.",
+            "Yes! We have course-based master’s known as MEng and thesis-based master’s known as Masc. in Civil."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

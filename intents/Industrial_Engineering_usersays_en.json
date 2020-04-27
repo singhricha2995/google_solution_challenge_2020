@@ -1,0 +1,200 @@
+[
+  {
+    "id": "1d2a48fc-ad25-4f89-84ba-efdf60809e72",
+    "data": [
+      {
+        "text": "I am looking for a master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "Industrial",
+        "alias": "industrial_eng",
+        "meta": "@industrial_eng",
+        "userDefined": true
+      },
+      {
+        "text": " Engg.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b8b347c8-1ab3-4bce-8454-88312c737f69",
+    "data": [
+      {
+        "text": "I want details for master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "Industrial",
+        "alias": "industrial_eng",
+        "meta": "@industrial_eng",
+        "userDefined": true
+      },
+      {
+        "text": " engineering.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b58e482-2abc-4ae5-89b1-f84210da40e8",
+    "data": [
+      {
+        "text": "Do we have a master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "Industrial",
+        "alias": "industrial_eng",
+        "meta": "@industrial_eng",
+        "userDefined": true
+      },
+      {
+        "text": " Engg?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09b61d08-2cd4-488a-ac42-b42372e0eb02",
+    "data": [
+      {
+        "text": "Is the University of Windsor offering thesis-based masters in ",
+        "userDefined": false
+      },
+      {
+        "text": "Industrial",
+        "alias": "industrial_eng",
+        "meta": "@industrial_eng",
+        "userDefined": true
+      },
+      {
+        "text": " engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7de24893-766c-4e27-b1dc-1193bfd8fefe",
+    "data": [
+      {
+        "text": "What graduate programs are available in ",
+        "userDefined": false
+      },
+      {
+        "text": "Industrial",
+        "alias": "industrial_eng",
+        "meta": "@industrial_eng",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d53ec6f-1356-4a9f-989f-5feb39673329",
+    "data": [
+      {
+        "text": "Does the University of Windsor have a course-based master\u0027s program in ",
+        "userDefined": false
+      },
+      {
+        "text": "Industrial",
+        "alias": "industrial_eng",
+        "meta": "@industrial_eng",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "961c3336-8e45-4cad-9665-9a764148fa36",
+    "data": [
+      {
+        "text": "Do we have a course-based masters in ",
+        "userDefined": false
+      },
+      {
+        "text": "Industrial",
+        "alias": "industrial_eng",
+        "meta": "@industrial_eng",
+        "userDefined": true
+      },
+      {
+        "text": " engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "797c08d6-6943-44ac-8961-10d18737a27e",
+    "data": [
+      {
+        "text": "Could you help me with the types of master\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "Industrial",
+        "alias": "industrial_eng",
+        "meta": "@industrial_eng",
+        "userDefined": true
+      },
+      {
+        "text": " engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1b18ff9-6b9f-4070-b87f-2a0ec4ae5517",
+    "data": [
+      {
+        "text": "What are the types of masters available in ",
+        "userDefined": false
+      },
+      {
+        "text": "Industrial",
+        "alias": "industrial_eng",
+        "meta": "@industrial_eng",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

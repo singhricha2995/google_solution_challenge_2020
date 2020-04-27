@@ -1,0 +1,44 @@
+{
+  "id": "341b2349-33e4-4b32-83c4-1bb1366fd4d5",
+  "name": "num_sub_meng",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cc0b27a1-14e3-4c71-be2e-49df07beb4f8",
+          "required": false,
+          "dataType": "@num_sub_meng",
+          "name": "num_sub_meng",
+          "value": "$num_sub_meng",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Students enrolled in MEng are required to complete a total of 8 courses for the completion of the degree.Students enrolled in MEng are allowed to choose 4 major courses out of 8. The remaining 4 are mandatory courses which need to be completed in order to enroll in majors."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

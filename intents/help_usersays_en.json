@@ -1,0 +1,146 @@
+[
+  {
+    "id": "3670cbbb-4600-4dc6-a6d8-354be020bccd",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "details",
+        "alias": "help",
+        "meta": "@help",
+        "userDefined": false
+      },
+      {
+        "text": " can you provide?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf455560-32f1-4e07-8e6b-05a2ed1f00ec",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "information",
+        "alias": "help",
+        "meta": "@help",
+        "userDefined": true
+      },
+      {
+        "text": " can I get from you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "645a272a-6097-4278-8d19-be5e3480c94a",
+    "data": [
+      {
+        "text": "What can you do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "966cbc0a-b95f-43c6-ae03-aacbe1c2f6b6",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "support",
+        "alias": "help",
+        "meta": "@help",
+        "userDefined": true
+      },
+      {
+        "text": " is offered?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e70439db-4780-4626-8fa0-38a12638b322",
+    "data": [
+      {
+        "text": "How can you be ",
+        "userDefined": false
+      },
+      {
+        "text": "helpful",
+        "alias": "help",
+        "meta": "@help",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "465dcee6-c557-4acf-b1df-8ab85e8793b6",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "help",
+        "alias": "help",
+        "meta": "@help",
+        "userDefined": true
+      },
+      {
+        "text": " do you provide?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed97af6b-8e58-4f93-bcee-5243cec26670",
+    "data": [
+      {
+        "text": "How could you ",
+        "userDefined": false
+      },
+      {
+        "text": "help",
+        "alias": "help",
+        "meta": "@help",
+        "userDefined": true
+      },
+      {
+        "text": " me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

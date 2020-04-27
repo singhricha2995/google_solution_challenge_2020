@@ -1,0 +1,207 @@
+[
+  {
+    "id": "c64b2092-5a1b-48e5-a1b4-3602da1920fb",
+    "data": [
+      {
+        "text": "Could ",
+        "userDefined": false
+      },
+      {
+        "text": "help",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " me with program ",
+        "userDefined": false
+      },
+      {
+        "text": "length",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Mechanical",
+        "alias": "duration_rea_spec",
+        "meta": "@duration_rea_spec",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Masters",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d466b13a-b0e4-4c37-947c-32204b444230",
+    "data": [
+      {
+        "text": "Completion period",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " for masters in ",
+        "userDefined": false
+      },
+      {
+        "text": "AI",
+        "alias": "duration_rea_spec",
+        "meta": "@duration_rea_spec",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "254413e0-5337-4765-99c5-ddf6a583b2be",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "long",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " will it take to ",
+        "userDefined": false
+      },
+      {
+        "text": "complete",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "masters",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "environmental",
+        "alias": "duration_rea_spec",
+        "meta": "@duration_rea_spec",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ddb7fecd-cfb4-4d42-bea7-b772ecead88c",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "duration",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "graduate program",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Computer Science",
+        "alias": "duration_rea_spec",
+        "meta": "@duration_rea_spec",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9ab1ab5-cbdf-4a46-b931-78f288b8ad84",
+    "data": [
+      {
+        "text": "How much is required to ",
+        "userDefined": false
+      },
+      {
+        "text": "complete",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Masters",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "ECE",
+        "alias": "duration_rea_spec",
+        "meta": "@duration_rea_spec",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

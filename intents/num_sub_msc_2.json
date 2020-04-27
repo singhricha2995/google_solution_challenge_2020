@@ -1,0 +1,44 @@
+{
+  "id": "891da3ba-128c-41f7-a19c-f3e84aaaee79",
+  "name": "num_sub_msc_2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "83a90522-480f-4be0-835d-355e95afe31f",
+          "required": false,
+          "dataType": "@num_sub_msc_2",
+          "name": "num_sub_msc_2",
+          "value": "$num_sub_msc_2",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Are you looking for a course-based or research-based program?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

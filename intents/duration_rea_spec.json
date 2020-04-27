@@ -1,0 +1,44 @@
+{
+  "id": "86e12d02-53c4-4f82-8fa2-0c4b803a4737",
+  "name": "duration_rea_spec",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a99bfc3c-424b-4055-9341-f9f03323c398",
+          "required": false,
+          "dataType": "@duration_rea_spec",
+          "name": "duration_rea_spec",
+          "value": "$duration_rea_spec",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Are you looking for Course-based or reasearch-based?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

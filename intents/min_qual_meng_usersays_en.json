@@ -1,0 +1,134 @@
+[
+  {
+    "id": "2e21ce9f-7c3a-4616-a9fe-5bf2e7843a51",
+    "data": [
+      {
+        "text": "Necessary qualification to apply in ",
+        "userDefined": false
+      },
+      {
+        "text": "course-based",
+        "alias": "min_qual_meng",
+        "meta": "@min_qual_meng",
+        "userDefined": true
+      },
+      {
+        "text": " program?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d9a8d53-e203-4e82-9686-5cb13cca7a37",
+    "data": [
+      {
+        "text": "What are the requirements needed for applying for Masters?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3bbb950e-23a4-4baf-bbe4-9b36e9da0d0d",
+    "data": [
+      {
+        "text": "How to know if I qualify for ",
+        "userDefined": false
+      },
+      {
+        "text": "MENG",
+        "alias": "min_qual_meng",
+        "meta": "@min_qual_meng",
+        "userDefined": false
+      },
+      {
+        "text": " in University of Windsor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a03a019-e235-4ea5-9e9a-5ea2485136d4",
+    "data": [
+      {
+        "text": "What is the eligibility criteria for Masters in UOW?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8925c262-11df-42b3-a2a0-94ce27b661c9",
+    "data": [
+      {
+        "text": "What are the necessary requirements to qualify to apply in ",
+        "userDefined": false
+      },
+      {
+        "text": "MEng",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ae62d49-3837-44ca-8c23-216972ed8ed4",
+    "data": [
+      {
+        "text": "What is the minimum percentage required to get an admit in ",
+        "userDefined": false
+      },
+      {
+        "text": "MEng",
+        "alias": "min_qual_meng",
+        "meta": "@min_qual_meng",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9b0d93d-e083-4932-812b-bdbaf8e5b8bc",
+    "data": [
+      {
+        "text": "What is the minimum qualification required to get an admit in ",
+        "userDefined": false
+      },
+      {
+        "text": "Electrical and Computer Engineering",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

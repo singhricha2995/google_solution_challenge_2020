@@ -1,0 +1,215 @@
+[
+  {
+    "id": "a957f5e2-2b4e-4ac5-b648-b95a3987edbf",
+    "data": [
+      {
+        "text": "The number of courses offered in the ",
+        "userDefined": false
+      },
+      {
+        "text": "Master of Applied science",
+        "alias": "num_sub_msc",
+        "meta": "@num_sub_msc",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3bbef026-6872-4d94-b1ba-9b41e39ce652",
+    "data": [
+      {
+        "text": "How many subjects can a student study in ",
+        "userDefined": false
+      },
+      {
+        "text": "MASC",
+        "alias": "num_sub_msc",
+        "meta": "@num_sub_msc",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5008198-a503-4295-a32d-ab7a27739f5c",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "majors",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " does the student enrolled ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "Master of Science",
+        "alias": "num_sub_msc",
+        "meta": "@num_sub_msc",
+        "userDefined": true
+      },
+      {
+        "text": " have to study?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18cef947-549a-4bd2-8717-cfc38c160ff0",
+    "data": [
+      {
+        "text": "What number of ",
+        "userDefined": false
+      },
+      {
+        "text": "subjects",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " do students study in ",
+        "userDefined": false
+      },
+      {
+        "text": "research-based",
+        "alias": "num_sub_msc",
+        "meta": "@num_sub_msc",
+        "userDefined": true
+      },
+      {
+        "text": " programs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "906d7bd9-e66c-4b46-b909-3a8f44d67390",
+    "data": [
+      {
+        "text": "MSc",
+        "alias": "num_sub_msc",
+        "meta": "@num_sub_msc",
+        "userDefined": true
+      },
+      {
+        "text": " is comprised of how many ",
+        "userDefined": false
+      },
+      {
+        "text": "courses",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e25cca39-b6c6-497c-bdc9-a7da15e4e647",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "courses",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " will I get to study while pursuing ",
+        "userDefined": false
+      },
+      {
+        "text": "MS",
+        "alias": "num_sub_msc",
+        "meta": "@num_sub_msc",
+        "userDefined": true
+      },
+      {
+        "text": " at the University of Windsor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2b41415-01ea-48d8-9df3-0d2fddeed731",
+    "data": [
+      {
+        "text": "What is the total number of ",
+        "userDefined": false
+      },
+      {
+        "text": "subjects",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " offered in the ",
+        "userDefined": false
+      },
+      {
+        "text": "thesis-based",
+        "alias": "num_sub_msc",
+        "meta": "@num_sub_msc",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "program",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

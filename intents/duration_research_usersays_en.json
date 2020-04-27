@@ -1,0 +1,175 @@
+[
+  {
+    "id": "b7c2c158-e0f8-4f50-a27b-a8bb17c5cfa5",
+    "data": [
+      {
+        "text": "How many months program is ",
+        "userDefined": false
+      },
+      {
+        "text": "research-based",
+        "alias": "duration_research",
+        "meta": "@duration_research",
+        "userDefined": true
+      },
+      {
+        "text": " program?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17dbbad6-6379-40d9-96c6-194b2cde2392",
+    "data": [
+      {
+        "text": "Could you ",
+        "userDefined": false
+      },
+      {
+        "text": "help",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " me with program ",
+        "userDefined": false
+      },
+      {
+        "text": "length",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Msc",
+        "alias": "duration_research",
+        "meta": "@duration_research",
+        "userDefined": true
+      },
+      {
+        "text": " in Artificial Intelligence?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd348fc5-588f-4f1a-b625-642f6c29de3c",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "completion period",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "MASC",
+        "alias": "duration_research",
+        "meta": "@duration_research",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in industrial",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e40f9ea-0f20-4d61-bbc5-51c3a216b211",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "length",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "thesis-based",
+        "alias": "duration_research",
+        "meta": "@duration_research",
+        "userDefined": true
+      },
+      {
+        "text": " program?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f556e5a7-bfce-489c-9b7e-dc5cb4ea9755",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "long",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " it takes to ",
+        "userDefined": false
+      },
+      {
+        "text": "complete",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "MS",
+        "alias": "duration_research",
+        "meta": "@duration_research",
+        "userDefined": true
+      },
+      {
+        "text": " in University of Windsor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

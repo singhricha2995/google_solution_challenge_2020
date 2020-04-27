@@ -1,0 +1,157 @@
+[
+  {
+    "id": "7b159c49-3626-4883-9ad2-b09ab09f0e1e",
+    "data": [
+      {
+        "text": "What is the total number of ",
+        "userDefined": false
+      },
+      {
+        "text": "subjects",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " offered in an ",
+        "userDefined": false
+      },
+      {
+        "text": "Automotive",
+        "alias": "num_course_meng_2",
+        "meta": "@num_course_meng_2",
+        "userDefined": true
+      },
+      {
+        "text": " graduate program?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19824da2-5a85-49cc-892e-cf6e80601b0b",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "courses",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " will I get to study while pursuing ",
+        "userDefined": false
+      },
+      {
+        "text": "Civil",
+        "alias": "num_course_meng_2",
+        "meta": "@num_course_meng_2",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe9ce9bf-a0b3-4d25-a0c6-01e005c42194",
+    "data": [
+      {
+        "text": "Masters in ",
+        "userDefined": false
+      },
+      {
+        "text": "Electrical and Computer Engineering",
+        "alias": "num_course_meng_2",
+        "meta": "@num_course_meng_2",
+        "userDefined": true
+      },
+      {
+        "text": " comprises of how many ",
+        "userDefined": false
+      },
+      {
+        "text": "courses",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "46f98eef-eca1-4b81-ab69-0f5f5f3b33c0",
+    "data": [
+      {
+        "text": "What number of ",
+        "userDefined": false
+      },
+      {
+        "text": "subjects",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " do students study ",
+        "userDefined": false
+      },
+      {
+        "text": "Environmental",
+        "alias": "num_course_meng_2",
+        "meta": "@num_course_meng_2",
+        "userDefined": true
+      },
+      {
+        "text": " Engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "769e95e7-fcc1-4e24-bbb7-11534c7b6c5e",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "majors",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " does the student enrolled in ",
+        "userDefined": false
+      },
+      {
+        "text": "Industrial",
+        "alias": "num_course_meng_2",
+        "meta": "@num_course_meng_2",
+        "userDefined": true
+      },
+      {
+        "text": " Engineering have to study?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

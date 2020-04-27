@@ -1,0 +1,47 @@
+{
+  "id": "c1b809b8-23ea-4e35-b6b8-d1cd9d2d5b28",
+  "name": "Electrical_and_Computer_Engineering",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5d602f5c-fb3f-4f50-bac7-233a05cd2c89",
+          "required": false,
+          "dataType": "@elec_comp_eng",
+          "name": "elec_comp_eng",
+          "value": "$elec_comp_eng",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "We provide two types of master’s program in ECE. One is Master of Engineering which is course-based and the other one is Master of Applied science which is Research-Based.",
+            "Yes! We have course-based master’s known as MEng and thesis-based master’s known as Masc. in ECE."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

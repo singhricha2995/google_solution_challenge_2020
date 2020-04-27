@@ -1,0 +1,212 @@
+[
+  {
+    "id": "6bf6dbe5-10f2-4990-be54-ba46818d5c05",
+    "data": [
+      {
+        "text": "Deadlines for ",
+        "userDefined": false
+      },
+      {
+        "text": "applications",
+        "alias": "deadline",
+        "meta": "@deadline",
+        "userDefined": true
+      },
+      {
+        "text": " for the ",
+        "userDefined": false
+      },
+      {
+        "text": "upcoming semster",
+        "alias": "deadline",
+        "meta": "@deadline",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5d7c755-8279-4386-bc4a-b03ca9eb7026",
+    "data": [
+      {
+        "text": "Are the ",
+        "userDefined": false
+      },
+      {
+        "text": "application",
+        "alias": "deadline",
+        "meta": "@deadline",
+        "userDefined": true
+      },
+      {
+        "text": " open for ",
+        "userDefined": false
+      },
+      {
+        "text": "spring 2021",
+        "alias": "deadline",
+        "meta": "@deadline",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eed3ea61-a122-4a35-8767-7f86c56adebb",
+    "data": [
+      {
+        "text": "Is University accepting ",
+        "userDefined": false
+      },
+      {
+        "text": "applications",
+        "alias": "deadline",
+        "meta": "@deadline",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Winter 2021",
+        "alias": "deadline",
+        "meta": "@deadline",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56b47088-eeee-429e-8fc4-0d168360f425",
+    "data": [
+      {
+        "text": "Till how ",
+        "userDefined": false
+      },
+      {
+        "text": "long",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " the application ",
+        "userDefined": false
+      },
+      {
+        "text": "deadline",
+        "alias": "deadline",
+        "meta": "@deadline",
+        "userDefined": true
+      },
+      {
+        "text": " is open for ",
+        "userDefined": false
+      },
+      {
+        "text": "Winter 2021",
+        "alias": "deadline",
+        "meta": "@deadline",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09dc44e1-2b71-4c5f-bdab-491b0ddfd2cd",
+    "data": [
+      {
+        "text": "Are the ",
+        "userDefined": false
+      },
+      {
+        "text": "applications",
+        "alias": "deadline",
+        "meta": "@deadline",
+        "userDefined": true
+      },
+      {
+        "text": " still open for ",
+        "userDefined": false
+      },
+      {
+        "text": "graduate program",
+        "alias": "deadline",
+        "meta": "@deadline",
+        "userDefined": true
+      },
+      {
+        "text": " in Uwindsor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d89787d8-864b-4151-b4b6-6c285bddc7fd",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "deadline",
+        "alias": "deadline",
+        "meta": "@deadline",
+        "userDefined": true
+      },
+      {
+        "text": " for applying in ",
+        "userDefined": false
+      },
+      {
+        "text": "masters",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "winter term",
+        "alias": "deadline",
+        "meta": "@deadline",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

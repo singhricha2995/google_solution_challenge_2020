@@ -1,0 +1,47 @@
+{
+  "id": "1b285c2d-32df-4bcb-b183-ee20aaf9bf03",
+  "name": "Computer_Science",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "78ad21ea-d107-4ea5-a1a6-8224fd6d5dc0",
+          "required": false,
+          "dataType": "@com_sci_eng",
+          "name": "com_sci_eng",
+          "value": "$com_sci_eng",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "We provide two types of master’s program in Computer Science. One is Master of Applied Computing which is course-based and the other one is Master of Science which is Research-Based.",
+            "Yes! We have course-based master’s known as MAC and thesis-based master’s known as MSc in Computer Science."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

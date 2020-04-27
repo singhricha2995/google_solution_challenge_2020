@@ -1,0 +1,51 @@
+{
+  "id": "1a6a35c2-141c-4b36-a669-f738c5cd5155",
+  "name": "ielts",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ielts",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "16c2dc8b-4384-4b6f-95a7-934d80c5aa72",
+          "required": true,
+          "dataType": "@IELTS",
+          "name": "ielts",
+          "value": "$ielts",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please specify the specialization"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Students are required to score minimum 6.5 band with no band less than 6 in reading, writing, listening and speaking. Possession of the minimum requirements does not ensure admission."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

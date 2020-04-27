@@ -1,0 +1,135 @@
+[
+  {
+    "id": "789c10a3-f50f-4dfc-9592-26c05fa67f5d",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "majors",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " does the student enrolled in ",
+        "userDefined": false
+      },
+      {
+        "text": "Manufacturing",
+        "alias": "num_sub_msc_2",
+        "meta": "@num_sub_msc_2",
+        "userDefined": true
+      },
+      {
+        "text": " Engineering have to study?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7a10fc98-19bd-4667-9650-7be03c6e814f",
+    "data": [
+      {
+        "text": " In ",
+        "userDefined": false
+      },
+      {
+        "text": "Computer Science",
+        "alias": "num_sub_msc_2",
+        "meta": "@num_sub_msc_2",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Engineering",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " how many subjects will I learn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac97be21-a60f-41ef-9bfe-67754c838194",
+    "data": [
+      {
+        "text": "Masters",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Electrical",
+        "alias": "num_sub_msc_2",
+        "meta": "@num_sub_msc_2",
+        "userDefined": true
+      },
+      {
+        "text": " Engineering comprise?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "719d933a-4825-4387-a57b-638c5e662952",
+    "data": [
+      {
+        "text": " while pursuing ",
+        "userDefined": false
+      },
+      {
+        "text": "Artificial Intelligence",
+        "alias": "num_sub_msc_2",
+        "meta": "@num_sub_msc_2",
+        "userDefined": true
+      },
+      {
+        "text": ", how many courses will I get to study?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aefda46c-bc34-4a19-939e-3587713e9faa",
+    "data": [
+      {
+        "text": "What is the number of courses offered in the ",
+        "userDefined": false
+      },
+      {
+        "text": "CS",
+        "alias": "num_sub_msc_2",
+        "meta": "@num_sub_msc_2",
+        "userDefined": true
+      },
+      {
+        "text": " graduate program?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
