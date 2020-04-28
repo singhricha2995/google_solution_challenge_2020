@@ -21,4 +21,9 @@ https://bot.dialogflow.com/9ddbf6b5-543f-4d49-8fc1-c27ba0708f10
 10.What is the length of thesis-based program in CS?  
 11.What is the educational qualification for Meng?  
 
-You can find these questions in the demo_questions.txt file in the repository.
+You can find these questions in the demo_questions.txt file in the repository.  
+
+## Code for data scraping  
+
+The ipynb file contains the code that we built to scrape the data needed for creating the queries and responses in the intents.  
+This is a snippet of the code we used to scrape other elements of the data too. As this code is dynamic, we used the same logic to scrape other elements just like we did with the column "Specialization" mentioned in the file solution-challenge-2020-scraping.csv
