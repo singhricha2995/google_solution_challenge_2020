@@ -20,6 +20,10 @@ https://bot.dialogflow.com/9ddbf6b5-543f-4d49-8fc1-c27ba0708f10
 9.What is the application deadline for masc ece?  
 10.What is the length of thesis-based program in CS?  
 11.What is the educational qualification for Meng?  
+12.How many courses will I get to study while pursuing MS at the University of Windsor?  
+13.Is uow accepting applications for Meng for the upcoming term?  
+14.Any admission requirements for thesis based Masters?  
+15.What is the minimum IELTS score required in MEng in Civil?  
 
 You can find these questions in the demo_questions.txt file in the repository.  
 
