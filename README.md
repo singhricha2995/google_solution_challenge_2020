@@ -12,7 +12,7 @@ https://bot.dialogflow.com/9ddbf6b5-543f-4d49-8fc1-c27ba0708f10
 1.Hello  
 2.How can you help me?  
 3.Do Univeristy of Windsor provides any kind of graduate programs?  
-4.Master in computers.  
+4.Master in computer.  
 5.What is the IELTS requirment for MAC?  
 6.Minimum application criteria for MAC?  
 7.What is the duration of Master of Applied Computing?  
@@ -25,7 +25,7 @@ https://bot.dialogflow.com/9ddbf6b5-543f-4d49-8fc1-c27ba0708f10
 14.Any admission requirements for thesis based Masters?  
 15.What is the minimum IELTS score required in MEng in Civil?  
 
-You can find these questions in the demo_questions.txt file in the repository.  
+You can find these questions in the demo_questions.txt file in the repository. 
 
 ## Code for data scraping  
 
